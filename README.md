@@ -61,12 +61,12 @@ To conduct this analysis, historical data for both NIFTY 50 and NIFTY Bank was o
 
 - Percentage Increase Projection:
   
-    By examining the percentage increase in closing prices over the observed period, we aim to provide insights into potential future trends for both NIFTY 50 and         NIFTY Bank. This projection is based on historical data and market trends.
+By examining the percentage increase in closing prices over the observed period, we aim to provide insights into potential future trends for both NIFTY 50 and         NIFTY Bank. This projection is based on historical data and market trends.
 
   - To calculate the percentage increase in the stock price over the past year, we can use the following formula:
 
     ```
     Percentage Increase = [( Today’s Closing Price − Closing Price a year ago) / Closing Price a year ago ) × 100]
     ```
-    Therefore, the percentage increase in the NIFTY BANK closing price over the past year is approximately 10.79 % and the percentage increase in the NIFTY 50 closing     price over the past year is approximately 18.5 %.
+Therefore, the percentage increase in the NIFTY BANK closing price over the past year is approximately 10.79 % and the percentage increase in the NIFTY 50 closing     price over the past year is approximately 18.5 %.
 
