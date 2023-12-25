@@ -17,7 +17,28 @@ Key Findings:
 
 - Highest and Lowest Prices:
 
-Our analysis identifies the date and corresponding prices at which both indices reached their highest and lowest points over the past year. Understanding these extremes is crucial for assessing market volatility and potential areas of opportunity or risk.
+This analysis identifies the date and corresponding prices at which both indices reached their highest and lowest points over the past year. Understanding these extremes is crucial for assessing market volatility and potential areas of opportunity or risk.
+
+1. Highest price of nifty_50 is observed on DECEMBER 20, 2023 (21593 Rs)
+   
+```SQL
+SELECT * FROM nse_data.nifty_50 ORDER BY High DESC LIMIT 1
+```
+2. Lowest price of nifty_50 is observed on MARCH 20, 2023 (16828.34961 Rs)
+   
+```SQL
+SELECT * FROM nse_data.nifty_50 ORDER BY Low DESC LIMIT 1
+```
+3. Highest price of nifty_BANK is observed on DECEMBER 15, 2023 (48219.94922 Rs)
+   
+```SQL
+SELECT * FROM nse_data.nifty_bank ORDER BY High DESC LIMIT 1
+```
+4. Lowest price of nifty_BANK is observed on MARCH 16, 2023 (38613.14844 Rs)
+   
+```SQL
+SELECT * FROM nse_data.nifty_bank ORDER BY Low ASC LIMIT 1
+```
 
 - Percentage Increase Projection:
 
