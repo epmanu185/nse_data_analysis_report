@@ -4,7 +4,7 @@
 
 ## Introduction:
 
-In the ever-changing landscape of financial markets, an in-depth analysis of historical stock performance is fundamental for strategic decision-making and market understanding. This report looks into the historical data of both NIFTY 50 and NIFTY Bank, two prominent indices representing key sectors of the National Stock Exchange of India (NSE). This analysis aims to unveil crucial insights into the past year's performance, covering closing prices, identifying dates of highest and lowest prices, and projecting potential percentage increases based on observed trends.
+In the ever-changing landscape of financial markets, an in-depth analysis of historical stock performance is fundamental for strategic decision-making and market understanding. This report looks into the historical data of both NIFTY 50 and NIFTY Bank, two prominent indices representing key sectors of the National Stock Exchange of India (NSE). This analysis aims to unveil crucial insights into the past year's performance(DEC 2022 - DEC 2023), covering closing prices, identifying dates of highest and lowest prices, and projecting potential percentage increases based on observed trends.
 
 ## Objective:
 
@@ -69,4 +69,6 @@ By examining the percentage increase in closing prices over the observed period,
     Percentage Increase = [( Today’s Closing Price − Closing Price a year ago) / Closing Price a year ago ) × 100]
     ```
 Therefore, the percentage increase in the NIFTY BANK closing price over the past year is approximately 10.79 % and the percentage increase in the NIFTY 50 closing     price over the past year is approximately 18.5 %.
+
+Data Source : https://finance.yahoo.com/
 
