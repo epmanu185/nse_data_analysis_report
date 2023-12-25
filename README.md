@@ -1,5 +1,5 @@
 
-# NIFTY 50 and NIFTY Bank Historical Data Analysis Report
+# NIFTY 50 and NIFTY BANK Historical Data Analysis Report
 ---
 
 ## Introduction:
