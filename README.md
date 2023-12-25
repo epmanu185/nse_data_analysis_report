@@ -63,6 +63,3 @@ To conduct this analysis, historical data for both NIFTY 50 and NIFTY Bank was o
   
    By examining the percentage increase in closing prices over the observed period, we aim to provide insights into potential future trends for both NIFTY 50 and         NIFTY Bank. This projection is based on historical data and market trends.
 
-## Structure of the Report:
-
-This report is organized into distinct sections, each focusing on a key aspect of the analysis for both NIFTY 50 and NIFTY Bank. We will present our findings, supported by relevant visualizations and interpretations, to offer a comprehensive overview of the historical performance of these indices.
