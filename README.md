@@ -17,7 +17,7 @@ To conduct this analysis, historical data for both NIFTY 50 and NIFTY Bank was o
 ## Key Findings:
 ---
 
-1. NIFTY 50 closing price, One year ago Vs Today; *18014.59961 Rs* (26-12-2022) & *21349.40039 Rs* (22-12-2023)
+- NIFTY 50 closing price, One year ago Vs Today; *18014.59961 Rs* (26-12-2022) & *21349.40039 Rs* (22-12-2023)
    
    ```SQL
    SELECT * FROM nse_data.nifty_50 ORDER BY Date ASC LIMIT 1
@@ -26,7 +26,7 @@ To conduct this analysis, historical data for both NIFTY 50 and NIFTY Bank was o
    SELECT * FROM nse_data.nifty_50 ORDER BY Date DESC LIMIT 1
    ```
 
-2. NIFTY BANK closing price, One year ago Vs Today; *42859.5 Rs* (27-12-2022) & *47491.85156 Rs* (22-12-2023)
+- NIFTY BANK closing price, One year ago Vs Today; *42859.5 Rs* (27-12-2022) & *47491.85156 Rs* (22-12-2023)
    
    ```SQL
    SELECT * FROM nse_data.nifty_bank ORDER BY Date ASC LIMIT 1
